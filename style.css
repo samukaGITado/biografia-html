@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(4, 4, 82);
+    border-style: solid;
+    border-color:deeppink;
+    border-width: 1px;
+}
+
+.h1{
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(4, 4, 82);
+}
+
+.p1{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(4, 4, 82);
+}
+
+.p2{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(4, 4, 82);
+}
+
+.p3{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(4, 4, 82);
+}
